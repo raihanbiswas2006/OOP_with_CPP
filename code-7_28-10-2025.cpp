@@ -36,9 +36,9 @@ int main()
     
     int start, end;
 
-    cout << "Enter the Start of the Range: ";
+    cout << "Give the Start of the Range: ";
     cin >> start;
-    cout << "Enter the End of the Range: ";
+    cout << "Give the End of the Range: ";
     cin >> end;
 
     checker.displayPrimes(start, end);
