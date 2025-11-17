@@ -12,7 +12,7 @@ inline float areaTriangle(float base, float height){
     return 0.5 * base * height;
 }
 inline float areaCircle(float radius){
-    return PI + radius * radius;
+    return PI * radius * radius;
 }
 
 int main(){
