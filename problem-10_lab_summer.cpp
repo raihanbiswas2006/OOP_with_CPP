@@ -1,4 +1,4 @@
-// Problem 10
+// Problem 10 Prime numbers 1–100
 
 #include <iostream>
 using namespace std;
