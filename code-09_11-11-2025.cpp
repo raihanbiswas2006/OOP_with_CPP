@@ -10,8 +10,8 @@ inline int sub(int a, int b){
 inline int multi(int a, int b){
     return (a*b);
 }
-inline float div(float p, float q){
-    return (p/q);
+inline float div(float a, float b){
+    return (a/b);
 }
 
 int main(){
