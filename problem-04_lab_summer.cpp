@@ -1,4 +1,4 @@
-// Problem 4
+// Problem 4 Average (Polymorphism / Overloaded function)
 
 #include <iostream>
 using namespace std;
