@@ -1,4 +1,4 @@
-// Problem 2
+// Problem 2 Factorial
 
 #include <iostream>
 using namespace std;
