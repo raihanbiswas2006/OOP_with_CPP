@@ -33,11 +33,11 @@ void primeNum::PrmN(){
         }
         if (f == 0)
         {
-            cout << "Not Prime."<<endl;
+            cout << "Prime."<<endl;
         }
         else
         {
-            cout << "Prime Number."<<endl;
+            cout << "Not Prime."<<endl;
         }
     }
 }
