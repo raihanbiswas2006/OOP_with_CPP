@@ -1,4 +1,4 @@
-// Problem 6
+// Problem 6 Sum (Overloaded function)
 
 #include <iostream>
 using namespace std;
