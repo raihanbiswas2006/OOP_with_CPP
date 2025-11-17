@@ -1,4 +1,4 @@
-// Problem 11
+// Problem 11 Even & Odd series 1–100
 
 #include <iostream>
 using namespace std;
