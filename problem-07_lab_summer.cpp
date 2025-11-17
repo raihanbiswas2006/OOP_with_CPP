@@ -1,4 +1,4 @@
-// Problem 7
+// Problem 7 Calculator (inline function)
 
 #include <iostream>
 using namespace std;
