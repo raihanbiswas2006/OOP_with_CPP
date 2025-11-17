@@ -1,4 +1,4 @@
-// Problem 9
+// Problem 9 Prime check
 
 #include <iostream>
 using namespace std;
