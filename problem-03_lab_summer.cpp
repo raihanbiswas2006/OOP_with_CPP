@@ -1,4 +1,4 @@
-// Problem 3 (a)
+// Problem 3 Swap (A)
 
 #include <iostream>
 using namespace std;
