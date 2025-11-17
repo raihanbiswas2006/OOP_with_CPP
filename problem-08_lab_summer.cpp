@@ -1,4 +1,4 @@
-// Problem 8
+// Problem 8 Area (inline function)
 
 #include <iostream>
 #define PI 3.1416
