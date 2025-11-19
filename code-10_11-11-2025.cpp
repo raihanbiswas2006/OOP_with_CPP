@@ -32,7 +32,7 @@ int main(){
 
     cin >> base >> height;
 
-    cout << "Area of Triangle: " << areaTriangle(base, height) << endl;
+    cout << "Area of Triangle: " << areaTriangle(base, height) <<endl;
     cout << "\nGive Radius of Circle: ";
 
     cin >> radius;
